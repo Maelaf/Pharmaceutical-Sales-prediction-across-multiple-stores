@@ -43,22 +43,22 @@ class processing:
         return round((missing_count / total_count) * 100, 2)
 
 
-#  for pharmaceutical sales
-def ToWeight(y):
-    w = np.zeros(y.shape, dtype=float)
-    ind = y != 0
-    w[ind] = 1./(y[ind]**2)
-    return w
+    #  for pharmaceutical
+    def ToWeight(y):
+        w = np.zeros(y.shape, dtype=float)
+        ind = y != 0
+        w[ind] = 1./(y[ind]**2)
+        return w
 
-def rmspe(yhat, y):
-    w = ToWeight(y)
-    rmspe = np.sqrt(np.mean( w * (y - yhat)**2 ))
-    return rmspe
+    def rmspe(yhat, y):
+        w = ToWeight(y)
+        rmspe = np.sqrt(np.mean( w * (y - yhat)**2 ))
+        return rmspe
 
-def rmspe_xg(yhat, y):
-    y = y.get_label()
-    y = np.exp(y) - 1
-    yhat = np.exp(yhat) - 1
-    w = ToWeight(y)
-    rmspe = np.sqrt(np.mean(w * (y - yhat)**2))
-    return "rmspe", rmspe
+    def rmspe_xg(yhat, y):
+        y = y.get_label()
+        y = np.exp(y) - 1
+        yhat = np.exp(yhat) - 1
+        w = ToWeight(y)
+        rmspe = np.sqrt(np.mean(w * (y - yhat)**2))
+        return  rmspe
