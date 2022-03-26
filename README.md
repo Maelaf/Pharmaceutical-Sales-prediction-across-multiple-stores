@@ -1,2 +1,4 @@
 # Pharmaceutical-Sales-prediction-across-multiple-stores
-You work at Rossmann Pharmaceuticals as a Machine Learning Engineer. The finance team wants to forecast sales in all their stores across several cities six weeks ahead of time. Managers in individual stores rely on their years of experience as well as their personal judgement to forecast sales. 
+This is a project for a forecast sales in all Rossemann Pharmaceuticals stores across several cities six weeks ahead of time. 
+The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.
+The goal is to build an end to end product that delivers this prediction 
