@@ -4,7 +4,7 @@ The data team identified factors such as promotions, competition, school and sta
 The goal is to build an end to end product that delivers this prediction 
 <h1>Data and Features</h1>
 
-Id - an Id that represents a (Store, Date) duple within the test set</n>
+Id - an Id that represents a (Store, Date) duple within the test set<n>
 Store - a unique Id for each store
 Sales - the turnover for any given day (this is what you are predicting)
 Customers - the number of customers on a given day
