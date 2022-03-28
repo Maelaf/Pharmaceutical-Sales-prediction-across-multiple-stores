@@ -21,7 +21,11 @@ The goal is to build an end to end product that delivers this prediction
 * PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 <h1> Procedures </h1>
+
 * Exploration of Customer purchasing behaviour - Data Cleaning, handling outliers and missing values 
+
 * Prediction of store sales up to six weeks ahead - pre processing, Building models, post prediction analysis, alternative deep learning model
+* 
 * Serving up predictions on a web interface(using streamlit)
+
 * Hosting(heroku)
