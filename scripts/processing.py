@@ -16,7 +16,7 @@ class processing:
 
         except FileNotFoundError:
             print("file not found")
-     ''' This function saves a csv file to a pandas data frame'''
+    ''' This function saves a csv file to a pandas data frame'''
     def save_csv(self, df, csv_path):
         try:
             df.to_csv(csv_path, index=False)
@@ -26,13 +26,14 @@ class processing:
             print("Save failed...")
 
         return df
-        '''The percent_missing function counts the number of missing values in in percentage'''
+    '''The percent_missing function counts the number of missing values in in percentage'''
     def percent_missing(self, df: pd.DataFrame) -> float:
 
         totalCells = np.product(df.shape)
         missingCount = df.isnull().sum()
         totalMissing = missingCount.sum()
         return round((totalMissing / totalCells) * 100, 2)
+    '''The percent_missing function counts the number of missing columns in in percentage'''
     
     def percent_missing_for_col(self, df: pd.DataFrame, col_name: str) -> float:
         total_count = len(df[col_name])
