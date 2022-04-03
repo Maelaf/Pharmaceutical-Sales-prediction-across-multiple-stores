@@ -2,12 +2,12 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import Normalizer, MinMaxScaler
 
-
+'''Useful functions and methods'''
 class processing:
 
     def __init__(self):
         pass
-    
+    ''' This function loads a csv file to a pandas data frame'''
     def read_csv(self, csv_path):
         try:
             df = pd.read_csv(csv_path)
@@ -16,7 +16,7 @@ class processing:
 
         except FileNotFoundError:
             print("file not found")
-    
+     ''' This function saves a csv file to a pandas data frame'''
     def save_csv(self, df, csv_path):
         try:
             df.to_csv(csv_path, index=False)
@@ -26,7 +26,7 @@ class processing:
             print("Save failed...")
 
         return df
-        
+        '''The percent_missing function counts the number of missing values in in percentage'''
     def percent_missing(self, df: pd.DataFrame) -> float:
 
         totalCells = np.product(df.shape)
