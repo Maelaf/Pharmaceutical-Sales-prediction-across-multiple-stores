@@ -23,7 +23,7 @@
   - [Installation guide](#installation-guide)
 
 ## Introduction
-
+Pharmaceutical Sales prediction: The finance department or Rosmann Pharmaceuticals wishes to anticipate sales six weeks ahead of time in all of their stores across many cities.This project has developed an end-to-end solution that will offer the finance team's analysts with this projection.
 
 ## Project Structure
 
