@@ -4,8 +4,6 @@
 
 </br>
 
-![drug-image](https://www.afd.fr/sites/afd/files/styles/visuel_principal/public/2019-10-09-27-46/flickr-marco-verch.jpg?itok=XH4x7-Y4)
-
 
 
 ## Table of Contents
@@ -98,7 +96,7 @@
 ## Installation guide
 
 ```bash
-git 
-cd Pharmaceutical-sales-prediction-across-mulitple-stores
+git clone https://github.com/Maelaf/Pharmaceutical-Sales-prediction-across-multiple-stores
+cd Pharmaceutical-Sales-prediction-across-mulitple-stores
 sudo python3 setup.py install
 ```
