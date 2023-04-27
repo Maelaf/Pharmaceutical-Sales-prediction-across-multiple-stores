@@ -1,0 +1,34 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.9.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.24.2
+mlflow_version: 1.26.0
+model_uuid: 19d9f8bbacde49f591459ce7179962b6
+run_id: e1eacb73c45b4f34af68b41b2a9d3b5d
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "DayOfWeek", "type": "double"}, {"name": "WeekDay", "type": "double"},
+    {"name": "Year", "type": "double"}, {"name": "Month", "type": "double"}, {"name":
+    "Season", "type": "double"}, {"name": "Day", "type": "double"}, {"name": "MonthTiming",
+    "type": "double"}, {"name": "Open", "type": "double"}, {"name": "Promo", "type":
+    "double"}, {"name": "StateHoliday", "type": "double"}, {"name": "DaysAfterHoliday",
+    "type": "double"}, {"name": "DaysToHoliday", "type": "double"}, {"name": "SchoolHoliday",
+    "type": "double"}, {"name": "StoreType", "type": "double"}, {"name": "Assortment",
+    "type": "double"}, {"name": "CompetitionDistance", "type": "double"}, {"name":
+    "CompetitionOpenSinceMonth", "type": "double"}, {"name": "CompetitionOpenSinceYear",
+    "type": "double"}, {"name": "Promo2", "type": "double"}, {"name": "Promo2SinceWeek",
+    "type": "double"}, {"name": "Promo2SinceYear", "type": "double"}, {"name": "PromoInterval",
+    "type": "double"}, {"name": "CompetitionOpenSince", "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2022-05-27 18:58:44.040752'

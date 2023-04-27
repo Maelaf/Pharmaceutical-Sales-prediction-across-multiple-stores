@@ -1,0 +1,5 @@
+{
+  "Pipeline_score-2_X_valid": "Pipeline.score(X=X_valid, y=y_valid)",
+  "Pipeline_score-3_X_test": "Pipeline.score(X=X_test, y=y_test)",
+  "Pipeline_score_X_train": "Pipeline.score(X=X_train, y=y_train)"
+}

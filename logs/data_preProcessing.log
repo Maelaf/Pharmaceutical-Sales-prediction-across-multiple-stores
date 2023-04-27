@@ -1,0 +1,919 @@
+2022-05-26 04:18:22,671 : INFO : log_help : Showing data information
+2022-05-26 04:18:22,671 : INFO : log_help : Showing data information
+2022-05-26 04:18:30,019 : INFO : log_help : Showing data information
+2022-05-26 04:18:30,019 : INFO : log_help : Showing data information
+2022-05-26 04:18:30,019 : INFO : log_help : Showing data information
+2022-05-26 04:18:32,674 : INFO : log_help : Showing data information
+2022-05-26 04:18:32,674 : INFO : log_help : Showing data information
+2022-05-26 04:18:32,674 : INFO : log_help : Showing data information
+2022-05-26 04:18:32,674 : INFO : log_help : Showing data information
+2022-05-26 04:18:39,461 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:18:39,461 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:18:39,461 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:18:39,461 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:18:40,854 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:18:40,854 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:18:40,854 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:18:40,854 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:18:42,212 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:18:42,212 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:18:42,212 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:18:42,212 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:19:26,691 : INFO : log_help : Showing missing percentage
+2022-05-26 04:19:26,691 : INFO : log_help : Showing missing percentage
+2022-05-26 04:19:26,691 : INFO : log_help : Showing missing percentage
+2022-05-26 04:19:26,691 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:34,846 : INFO : log_help : Showing data information
+2022-05-26 04:20:34,846 : INFO : log_help : Showing data information
+2022-05-26 04:20:36,482 : INFO : log_help : Showing data information
+2022-05-26 04:20:36,482 : INFO : log_help : Showing data information
+2022-05-26 04:20:36,482 : INFO : log_help : Showing data information
+2022-05-26 04:20:37,465 : INFO : log_help : Showing data information
+2022-05-26 04:20:37,465 : INFO : log_help : Showing data information
+2022-05-26 04:20:37,465 : INFO : log_help : Showing data information
+2022-05-26 04:20:37,465 : INFO : log_help : Showing data information
+2022-05-26 04:20:39,482 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:20:39,482 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:20:39,482 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:20:39,482 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:20:40,729 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:20:40,729 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:20:40,729 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:20:40,729 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:20:41,181 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:20:41,181 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:20:41,181 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:20:41,181 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:20:44,020 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:44,020 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:44,020 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:44,020 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:51,314 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:51,314 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:51,314 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:51,314 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:54,158 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:54,158 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:54,158 : INFO : log_help : Showing missing percentage
+2022-05-26 04:20:54,158 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:11,361 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:11,361 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:11,361 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:11,361 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:12,561 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:12,561 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:12,561 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:12,561 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:17,406 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:17,406 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:17,406 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:17,406 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:36,475 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:36,475 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:36,475 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:36,475 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:40,098 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:40,098 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:40,098 : INFO : log_help : Showing missing percentage
+2022-05-26 04:21:40,098 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:16,058 : INFO : log_help : Showing data information
+2022-05-26 04:22:16,058 : INFO : log_help : Showing data information
+2022-05-26 04:22:16,058 : INFO : log_help : Showing data information
+2022-05-26 04:22:16,058 : INFO : log_help : Showing data information
+2022-05-26 04:22:16,058 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:18,837 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:20,611 : INFO : log_help : Showing data information
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:26,926 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,224 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:28,753 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:30,340 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:33,402 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:34,491 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:37,149 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:39,993 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:22:41,877 : INFO : log_help : Showing missing percentage
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:12,126 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:14,712 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:25:16,563 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:03,494 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:26:05,311 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:00,394 : INFO : log_help : Showing data information
+2022-05-26 04:50:00,394 : INFO : log_help : Showing data information
+2022-05-26 04:50:01,625 : INFO : log_help : Showing data information
+2022-05-26 04:50:01,625 : INFO : log_help : Showing data information
+2022-05-26 04:50:01,625 : INFO : log_help : Showing data information
+2022-05-26 04:50:02,336 : INFO : log_help : Showing data information
+2022-05-26 04:50:02,336 : INFO : log_help : Showing data information
+2022-05-26 04:50:02,336 : INFO : log_help : Showing data information
+2022-05-26 04:50:02,336 : INFO : log_help : Showing data information
+2022-05-26 04:50:03,960 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:50:03,960 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:50:03,960 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:50:03,960 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 04:50:04,623 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:50:04,623 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:50:04,623 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:50:04,623 : INFO : log_help : Colums with missing values: []
+2022-05-26 04:50:05,031 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:50:05,031 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:50:05,031 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:50:05,031 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 04:50:06,156 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:06,156 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:06,156 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:06,156 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:07,478 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:07,478 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:07,478 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:07,478 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:08,631 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:08,631 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:08,631 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:08,631 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:09,997 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:09,997 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:09,997 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:09,997 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:10,693 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:10,693 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:10,693 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:10,693 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:11,967 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:11,967 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:11,967 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:11,967 : INFO : log_help : Showing missing percentage
+2022-05-26 04:50:15,064 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,064 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,064 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,064 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,714 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,714 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,714 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:15,714 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:17,518 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:17,518 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:17,518 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:17,518 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:32,454 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:32,454 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:32,454 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:32,454 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:35,242 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:35,242 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:35,242 : INFO : log_help : Showing datatypes
+2022-05-26 04:50:35,242 : INFO : log_help : Showing datatypes
+2022-05-26 05:06:46,870 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:06:46,870 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:06:46,870 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:06:46,870 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:08:44,635 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:08:44,635 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:08:44,635 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:08:44,635 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:08:47,168 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:08:47,168 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:08:47,168 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:08:47,168 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:08:47,172 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:08:47,172 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:08:47,172 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:08:47,172 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:09:25,062 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:09:25,062 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:09:25,062 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:09:25,062 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:09:27,942 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:09:27,942 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:09:27,942 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:09:27,942 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:09:27,945 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:09:27,945 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:09:27,945 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:09:27,945 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:14:25,026 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:14:25,026 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:14:25,026 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:14:25,026 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:14:25,069 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:14:25,069 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:14:25,069 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:14:25,069 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:25:41,561 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:41,561 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:41,561 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:41,561 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:48,067 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:48,067 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:48,067 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:48,067 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:25:50,145 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:25:50,145 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:25:50,145 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:25:50,145 : INFO : log_help : Outliers fixed for columns: CompetitionDistance
+2022-05-26 05:25:50,147 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:25:50,147 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:25:50,147 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:25:50,147 : INFO : log_help : Outliers fixed for columns: CompetitionOpenSinceMonth
+2022-05-26 05:26:52,098 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:26:52,098 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:26:52,098 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:26:52,098 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:27:12,032 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:27:12,032 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:27:12,032 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:27:12,032 : INFO : log_help : Outliers fixed for columns: Sales
+2022-05-26 05:28:28,598 : INFO : log_help : Showing data information
+2022-05-26 05:28:28,598 : INFO : log_help : Showing data information
+2022-05-26 05:28:28,955 : INFO : log_help : Showing data information
+2022-05-26 05:28:28,955 : INFO : log_help : Showing data information
+2022-05-26 05:28:28,955 : INFO : log_help : Showing data information
+2022-05-26 05:28:29,347 : INFO : log_help : Showing data information
+2022-05-26 05:28:29,347 : INFO : log_help : Showing data information
+2022-05-26 05:28:29,347 : INFO : log_help : Showing data information
+2022-05-26 05:28:29,347 : INFO : log_help : Showing data information
+2022-05-26 05:28:30,131 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:28:30,131 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:28:30,131 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:28:30,131 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:28:30,846 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:28:30,846 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:28:30,846 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:28:30,846 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:28:31,225 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:28:31,225 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:28:31,225 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:28:31,225 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:28:32,270 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:32,270 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:32,270 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:32,270 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:33,387 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:33,387 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:33,387 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:33,387 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:34,457 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:34,457 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:34,457 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:34,457 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:36,253 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:36,253 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:36,253 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:36,253 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:38,061 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:38,061 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:38,061 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:38,061 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:39,531 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:39,531 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:39,531 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:39,531 : INFO : log_help : Showing missing percentage
+2022-05-26 05:28:44,730 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:44,730 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:44,730 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:44,730 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:45,675 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:45,675 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:45,675 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:45,675 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:46,777 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:46,777 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:46,777 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:46,777 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,110 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,110 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,110 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,110 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,798 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,798 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,798 : INFO : log_help : Showing datatypes
+2022-05-26 05:28:49,798 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:38,466 : INFO : log_help : Showing data information
+2022-05-26 05:42:38,466 : INFO : log_help : Showing data information
+2022-05-26 05:42:39,580 : INFO : log_help : Showing data information
+2022-05-26 05:42:39,580 : INFO : log_help : Showing data information
+2022-05-26 05:42:39,580 : INFO : log_help : Showing data information
+2022-05-26 05:42:40,052 : INFO : log_help : Showing data information
+2022-05-26 05:42:40,052 : INFO : log_help : Showing data information
+2022-05-26 05:42:40,052 : INFO : log_help : Showing data information
+2022-05-26 05:42:40,052 : INFO : log_help : Showing data information
+2022-05-26 05:42:41,328 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:42:41,328 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:42:41,328 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:42:41,328 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:42:42,052 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:42:42,052 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:42:42,052 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:42:42,052 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:42:42,456 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:42:42,456 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:42:42,456 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:42:42,456 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:42:44,445 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:44,445 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:44,445 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:44,445 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:45,869 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:45,869 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:45,869 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:45,869 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:46,364 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:46,364 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:46,364 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:46,364 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,003 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,003 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,003 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,003 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,621 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,621 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,621 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:48,621 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:49,489 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:49,489 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:49,489 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:49,489 : INFO : log_help : Showing missing percentage
+2022-05-26 05:42:51,035 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,035 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,035 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,035 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,890 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,890 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,890 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:51,890 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:52,935 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:52,935 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:52,935 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:52,935 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:55,706 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:55,706 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:55,706 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:55,706 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:56,427 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:56,427 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:56,427 : INFO : log_help : Showing datatypes
+2022-05-26 05:42:56,427 : INFO : log_help : Showing datatypes
+2022-05-26 05:56:48,391 : INFO : log_help : Showing data information
+2022-05-26 05:56:48,391 : INFO : log_help : Showing data information
+2022-05-26 05:56:49,648 : INFO : log_help : Showing data information
+2022-05-26 05:56:49,648 : INFO : log_help : Showing data information
+2022-05-26 05:56:49,648 : INFO : log_help : Showing data information
+2022-05-26 05:56:50,463 : INFO : log_help : Showing data information
+2022-05-26 05:56:50,463 : INFO : log_help : Showing data information
+2022-05-26 05:56:50,463 : INFO : log_help : Showing data information
+2022-05-26 05:56:50,463 : INFO : log_help : Showing data information
+2022-05-26 05:56:51,871 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:56:51,871 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:56:51,871 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:56:51,871 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-26 05:56:52,620 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:56:52,620 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:56:52,620 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:56:52,620 : INFO : log_help : Colums with missing values: []
+2022-05-26 05:56:53,111 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:56:53,111 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:56:53,111 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:56:53,111 : INFO : log_help : Colums with missing values: ['Open']
+2022-05-26 05:56:54,744 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:54,744 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:54,744 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:54,744 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:56,374 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:56,374 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:56,374 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:56,374 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:58,968 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:58,968 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:58,968 : INFO : log_help : Showing missing percentage
+2022-05-26 05:56:58,968 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:10,517 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:10,517 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:10,517 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:10,517 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:11,579 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:11,579 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:11,579 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:11,579 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:13,451 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:13,451 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:13,451 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:13,451 : INFO : log_help : Showing missing percentage
+2022-05-26 05:57:17,833 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:17,833 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:17,833 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:17,833 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,012 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,012 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,012 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,012 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,901 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,901 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,901 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:19,901 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:21,854 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:21,854 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:21,854 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:21,854 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:23,519 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:23,519 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:23,519 : INFO : log_help : Showing datatypes
+2022-05-26 05:57:23,519 : INFO : log_help : Showing datatypes
+2022-05-26 05:58:27,625 : INFO : log_help : Outlier for Sales is fixed
+2022-05-26 05:58:27,625 : INFO : log_help : Outlier for Sales is fixed
+2022-05-26 05:58:27,625 : INFO : log_help : Outlier for Sales is fixed
+2022-05-26 05:58:27,625 : INFO : log_help : Outlier for Sales is fixed
+2022-05-26 05:58:35,771 : INFO : log_help : Outlier for CompetitionDistance is fixed
+2022-05-26 05:58:35,771 : INFO : log_help : Outlier for CompetitionDistance is fixed
+2022-05-26 05:58:35,771 : INFO : log_help : Outlier for CompetitionDistance is fixed
+2022-05-26 05:58:35,771 : INFO : log_help : Outlier for CompetitionDistance is fixed
+2022-05-26 05:58:35,786 : INFO : log_help : Outlier for CompetitionOpenSinceMonth is fixed
+2022-05-26 05:58:35,786 : INFO : log_help : Outlier for CompetitionOpenSinceMonth is fixed
+2022-05-26 05:58:35,786 : INFO : log_help : Outlier for CompetitionOpenSinceMonth is fixed
+2022-05-26 05:58:35,786 : INFO : log_help : Outlier for CompetitionOpenSinceMonth is fixed
+2022-05-26 06:18:24,729 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-26 06:18:24,729 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-26 06:18:24,729 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-26 06:18:24,761 : INFO : log_help : Converted to numbers
+2022-05-26 06:18:24,761 : INFO : log_help : Converted to numbers
+2022-05-26 06:18:24,761 : INFO : log_help : Converted to numbers
+2022-05-26 06:18:24,761 : INFO : log_help : Converted to numbers
+2022-05-26 06:18:24,766 : INFO : log_help : Showing coloumn names
+2022-05-26 06:18:24,766 : INFO : log_help : Showing coloumn names
+2022-05-26 06:18:24,766 : INFO : log_help : Showing coloumn names
+2022-05-26 06:18:24,766 : INFO : log_help : Showing coloumn names
+2022-05-26 06:18:24,766 : INFO : log_help : Showing coloumn names
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,814 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,821 : INFO : log_help : Showing data information
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 06:18:24,873 : INFO : log_help : Showing datatypes
+2022-05-26 23:56:37,224 : INFO : log_help : Showing data information
+2022-05-26 23:56:37,224 : INFO : log_help : Showing data information
+2022-05-27 00:10:40,204 : INFO : log_help : Showing data information
+2022-05-27 00:10:40,204 : INFO : log_help : Showing data information
+2022-05-27 00:10:40,204 : INFO : log_help : Showing data information
+2022-05-27 00:11:27,007 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:11:27,007 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:11:27,007 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:11:51,269 : INFO : log_help : Showing data information
+2022-05-27 00:11:51,269 : INFO : log_help : Showing data information
+2022-05-27 00:11:51,269 : INFO : log_help : Showing data information
+2022-05-27 00:11:51,269 : INFO : log_help : Showing data information
+2022-05-27 00:12:51,399 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:51,399 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:51,399 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:51,399 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:55,635 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:55,635 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:55,635 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:55,635 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:59,835 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:59,835 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:59,835 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:12:59,835 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 00:13:27,081 : INFO : log_help : Showing missing percentage
+2022-05-27 00:13:27,081 : INFO : log_help : Showing missing percentage
+2022-05-27 00:13:27,081 : INFO : log_help : Showing missing percentage
+2022-05-27 00:13:27,081 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:03,374 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:03,374 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:03,374 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:03,374 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:41,068 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:41,068 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:41,068 : INFO : log_help : Showing missing percentage
+2022-05-27 00:31:41,068 : INFO : log_help : Showing missing percentage
+2022-05-27 00:40:04,893 : INFO : log_help : Colums with missing values: []
+2022-05-27 00:40:04,893 : INFO : log_help : Colums with missing values: []
+2022-05-27 00:40:04,893 : INFO : log_help : Colums with missing values: []
+2022-05-27 00:40:04,893 : INFO : log_help : Colums with missing values: []
+2022-05-27 00:59:31,528 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 00:59:31,528 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 00:59:31,528 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 00:59:31,528 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 00:59:31,705 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 00:59:31,705 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 00:59:31,705 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 00:59:31,705 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 01:34:38,030 : INFO : log_help : Showing data information
+2022-05-27 01:34:38,030 : INFO : log_help : Showing data information
+2022-05-27 01:35:11,398 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 01:35:11,398 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 01:35:12,252 : INFO : log_help : Showing missing percentage
+2022-05-27 01:35:12,252 : INFO : log_help : Showing missing percentage
+2022-05-27 01:35:20,046 : INFO : log_help : Colums with missing values: []
+2022-05-27 01:35:20,046 : INFO : log_help : Colums with missing values: []
+2022-05-27 01:35:27,910 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 01:35:27,910 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 01:35:28,148 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 01:35:28,148 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 01:35:35,996 : INFO : log_help : Successfully Added WeekDay Column to the DataFrame
+2022-05-27 01:35:35,996 : INFO : log_help : Successfully Added WeekDay Column to the DataFrame
+2022-05-27 01:35:41,874 : INFO : log_help : Successfully Added DaysToHoliday Column
+2022-05-27 01:35:41,874 : INFO : log_help : Successfully Added DaysToHoliday Column
+2022-05-27 01:35:45,618 : INFO : log_help : Successfully Added DaysAfterHoliday Column
+2022-05-27 01:35:45,618 : INFO : log_help : Successfully Added DaysAfterHoliday Column
+2022-05-27 01:35:47,407 : INFO : log_help : Successfully Added MonthTiming Column
+2022-05-27 01:35:47,407 : INFO : log_help : Successfully Added MonthTiming Column
+2022-05-27 01:36:50,393 : INFO : log_help : Successfully Added Season Column
+2022-05-27 01:36:50,393 : INFO : log_help : Successfully Added Season Column
+2022-05-27 03:21:28,997 : INFO : log_help : Showing data information
+2022-05-27 03:21:28,997 : INFO : log_help : Showing data information
+2022-05-27 03:22:19,876 : INFO : log_help : Showing data information
+2022-05-27 03:22:19,876 : INFO : log_help : Showing data information
+2022-05-27 03:22:29,289 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 03:22:29,289 : INFO : log_help : Colums with missing values: ['CompetitionDistance', 'CompetitionOpenSinceMonth', 'CompetitionOpenSinceYear', 'Promo2SinceWeek', 'Promo2SinceYear', 'PromoInterval']
+2022-05-27 03:22:30,997 : INFO : log_help : Showing missing percentage
+2022-05-27 03:22:30,997 : INFO : log_help : Showing missing percentage
+2022-05-27 03:22:42,727 : INFO : log_help : Showing missing percentage
+2022-05-27 03:22:42,727 : INFO : log_help : Showing missing percentage
+2022-05-27 03:22:47,989 : INFO : log_help : Colums with missing values: []
+2022-05-27 03:22:47,989 : INFO : log_help : Colums with missing values: []
+2022-05-27 03:23:22,959 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 03:23:22,959 : INFO : log_help : Outlier for Customers is fixed
+2022-05-27 03:23:23,184 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 03:23:23,184 : INFO : log_help : Outlier for Sales is fixed
+2022-05-27 03:23:30,516 : INFO : log_help : Successfully Added WeekDay Column to the DataFrame
+2022-05-27 03:23:30,516 : INFO : log_help : Successfully Added WeekDay Column to the DataFrame
+2022-05-27 03:23:32,777 : INFO : log_help : Successfully Added DaysToHoliday Column
+2022-05-27 03:23:32,777 : INFO : log_help : Successfully Added DaysToHoliday Column
+2022-05-27 03:23:34,647 : INFO : log_help : Successfully Added DaysAfterHoliday Column
+2022-05-27 03:23:34,647 : INFO : log_help : Successfully Added DaysAfterHoliday Column
+2022-05-27 03:23:36,128 : INFO : log_help : Successfully Added MonthTiming Column
+2022-05-27 03:23:36,128 : INFO : log_help : Successfully Added MonthTiming Column
+2022-05-27 03:23:46,769 : INFO : log_help : Successfully Added Season Column
+2022-05-27 03:23:46,769 : INFO : log_help : Successfully Added Season Column
+2022-05-28 00:56:10,251 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 00:56:10,251 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 00:56:10,251 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 00:56:10,274 : INFO : log_help : Converted to numbers
+2022-05-28 00:56:10,274 : INFO : log_help : Converted to numbers
+2022-05-28 00:56:10,274 : INFO : log_help : Converted to numbers
+2022-05-28 00:56:10,274 : INFO : log_help : Converted to numbers
+2022-05-28 00:56:10,276 : INFO : log_help : Showing coloumn names
+2022-05-28 00:56:10,276 : INFO : log_help : Showing coloumn names
+2022-05-28 00:56:10,276 : INFO : log_help : Showing coloumn names
+2022-05-28 00:56:10,276 : INFO : log_help : Showing coloumn names
+2022-05-28 00:56:10,276 : INFO : log_help : Showing coloumn names
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,321 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,324 : INFO : log_help : Showing data information
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 00:56:10,437 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,387 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 16:43:40,387 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 16:43:40,387 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-28 16:43:40,412 : INFO : log_help : Converted to numbers
+2022-05-28 16:43:40,412 : INFO : log_help : Converted to numbers
+2022-05-28 16:43:40,412 : INFO : log_help : Converted to numbers
+2022-05-28 16:43:40,412 : INFO : log_help : Converted to numbers
+2022-05-28 16:43:40,414 : INFO : log_help : Showing coloumn names
+2022-05-28 16:43:40,414 : INFO : log_help : Showing coloumn names
+2022-05-28 16:43:40,414 : INFO : log_help : Showing coloumn names
+2022-05-28 16:43:40,414 : INFO : log_help : Showing coloumn names
+2022-05-28 16:43:40,414 : INFO : log_help : Showing coloumn names
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,454 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,457 : INFO : log_help : Showing data information
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-28 16:43:40,516 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,727 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 02:19:58,727 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 02:19:58,727 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 02:19:58,744 : INFO : log_help : Converted to numbers
+2022-05-29 02:19:58,744 : INFO : log_help : Converted to numbers
+2022-05-29 02:19:58,744 : INFO : log_help : Converted to numbers
+2022-05-29 02:19:58,744 : INFO : log_help : Converted to numbers
+2022-05-29 02:19:58,744 : INFO : log_help : Showing coloumn names
+2022-05-29 02:19:58,744 : INFO : log_help : Showing coloumn names
+2022-05-29 02:19:58,744 : INFO : log_help : Showing coloumn names
+2022-05-29 02:19:58,744 : INFO : log_help : Showing coloumn names
+2022-05-29 02:19:58,744 : INFO : log_help : Showing coloumn names
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,773 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,776 : INFO : log_help : Showing data information
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 02:19:58,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,755 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:42:51,755 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:42:51,755 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:42:51,760 : INFO : log_help : Converted to numbers
+2022-05-29 03:42:51,760 : INFO : log_help : Converted to numbers
+2022-05-29 03:42:51,760 : INFO : log_help : Converted to numbers
+2022-05-29 03:42:51,760 : INFO : log_help : Converted to numbers
+2022-05-29 03:42:51,761 : INFO : log_help : Showing coloumn names
+2022-05-29 03:42:51,761 : INFO : log_help : Showing coloumn names
+2022-05-29 03:42:51,761 : INFO : log_help : Showing coloumn names
+2022-05-29 03:42:51,761 : INFO : log_help : Showing coloumn names
+2022-05-29 03:42:51,761 : INFO : log_help : Showing coloumn names
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,779 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,781 : INFO : log_help : Showing data information
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:42:51,824 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,751 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:48:57,751 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:48:57,751 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:48:57,757 : INFO : log_help : Converted to numbers
+2022-05-29 03:48:57,757 : INFO : log_help : Converted to numbers
+2022-05-29 03:48:57,757 : INFO : log_help : Converted to numbers
+2022-05-29 03:48:57,757 : INFO : log_help : Converted to numbers
+2022-05-29 03:48:57,760 : INFO : log_help : Showing coloumn names
+2022-05-29 03:48:57,760 : INFO : log_help : Showing coloumn names
+2022-05-29 03:48:57,760 : INFO : log_help : Showing coloumn names
+2022-05-29 03:48:57,760 : INFO : log_help : Showing coloumn names
+2022-05-29 03:48:57,760 : INFO : log_help : Showing coloumn names
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,766 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,769 : INFO : log_help : Showing data information
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:48:57,822 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,115 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:49:03,115 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:49:03,115 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:49:03,119 : INFO : log_help : Converted to numbers
+2022-05-29 03:49:03,119 : INFO : log_help : Converted to numbers
+2022-05-29 03:49:03,119 : INFO : log_help : Converted to numbers
+2022-05-29 03:49:03,119 : INFO : log_help : Converted to numbers
+2022-05-29 03:49:03,120 : INFO : log_help : Showing coloumn names
+2022-05-29 03:49:03,120 : INFO : log_help : Showing coloumn names
+2022-05-29 03:49:03,120 : INFO : log_help : Showing coloumn names
+2022-05-29 03:49:03,120 : INFO : log_help : Showing coloumn names
+2022-05-29 03:49:03,120 : INFO : log_help : Showing coloumn names
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,129 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,134 : INFO : log_help : Showing data information
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:49:03,200 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,333 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:58:02,333 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:58:02,333 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 03:58:02,340 : INFO : log_help : Converted to numbers
+2022-05-29 03:58:02,340 : INFO : log_help : Converted to numbers
+2022-05-29 03:58:02,340 : INFO : log_help : Converted to numbers
+2022-05-29 03:58:02,340 : INFO : log_help : Converted to numbers
+2022-05-29 03:58:02,341 : INFO : log_help : Showing coloumn names
+2022-05-29 03:58:02,341 : INFO : log_help : Showing coloumn names
+2022-05-29 03:58:02,341 : INFO : log_help : Showing coloumn names
+2022-05-29 03:58:02,341 : INFO : log_help : Showing coloumn names
+2022-05-29 03:58:02,341 : INFO : log_help : Showing coloumn names
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,347 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,348 : INFO : log_help : Showing data information
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 03:58:02,390 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,356 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 04:07:07,356 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 04:07:07,356 : INFO : log_help : Colums with missing values: ['floats']
+2022-05-29 04:07:07,360 : INFO : log_help : Converted to numbers
+2022-05-29 04:07:07,360 : INFO : log_help : Converted to numbers
+2022-05-29 04:07:07,360 : INFO : log_help : Converted to numbers
+2022-05-29 04:07:07,360 : INFO : log_help : Converted to numbers
+2022-05-29 04:07:07,362 : INFO : log_help : Showing coloumn names
+2022-05-29 04:07:07,362 : INFO : log_help : Showing coloumn names
+2022-05-29 04:07:07,362 : INFO : log_help : Showing coloumn names
+2022-05-29 04:07:07,362 : INFO : log_help : Showing coloumn names
+2022-05-29 04:07:07,362 : INFO : log_help : Showing coloumn names
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,367 : INFO : log_help : Dropped duplicates: Int64Index([], dtype='int64')
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,371 : INFO : log_help : Showing data information
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes
+2022-05-29 04:07:07,415 : INFO : log_help : Showing datatypes

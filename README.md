@@ -1,28 +1,104 @@
-# Pharmaceutical-Sales-prediction-across-multiple-stores
-This is a project for a forecast sales in all Rossemann Pharmaceuticals stores across several cities six weeks ahead of time. 
-The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.
-The goal is to build an end to end product that delivers this prediction 
-<h1>Data and Features</h1>
 
-* Id - an Id that represents a (Store, Date) duple within the test set
-* Store - a unique Id for each store
-* Sales - the turnover for any given day (this is what you are predicting)
-* Customers - the number of customers on a given day
-* Open - an indicator for whether the store was open: 0 = closed, 1 = open
-* StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. a = public holiday, b = Easter holiday, c = Christmas, 0 = None
-* SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools
-* StoreType - differentiates between 4 different store models: a, b, c, d
-* Assortment - describes an assortment level: a = basic, b = extra, c = extended. Read more about assortment here
-* CompetitionDistance - distance in meters to the nearest competitor store
-* CompetitionOpenSince[Month/Year] - gives the approximate year and month of the time the nearest competitor was opened
-* Promo - indicates whether a store is running a promo on that day
-* Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
-* Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
-* PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
+<h1 align="center">Rossmann Pharmaceutical Sales Prediction</h1>
 
-<h1> Procedures </h1>
 
-* Exploration of Customer purchasing behaviour - Data Cleaning, handling outliers and missing values 
-* Prediction of store sales up to six weeks ahead - pre processing, Building models, post prediction analysis, alternative deep learning model
-* Serving up predictions on a web interface(using streamlit)
-* Hosting(heroku)
+</br>
+
+![drug-image](https://www.afd.fr/sites/afd/files/styles/visuel_principal/public/2019-10-09-27-46/flickr-marco-verch.jpg?itok=XH4x7-Y4)
+
+
+
+## Table of Contents
+
+* [Rossmann-Pharmaceuticals-Sales-Prediction](#pharmaceutical-sales-prediction)
+
+  - [Introduction](##Introduction)
+  - [Project Structure](#project-structure)
+    * [data](#data)
+    * [models](#models)
+    * [notebooks](#notebooks)
+    * [scripts](#scripts)
+    * [sql](#sql)
+    * [tests](#tests)
+    * [logs](#logs)
+    * [root folder](#root-folder)
+  - [Installation guide](#installation-guide)
+
+## Introduction
+
+
+## Project Structure
+
+### images:
+
+- `images/` the folder where all snapshot for the project are stored.
+
+### logs:
+
+- `logs/` the folder where script logs are stored.
+
+### mlruns:
+- `mlruns/0/` the folder that contain auto generated mlflow runs.
+### data:
+
+ - `train_store.csv.dvc` the folder where the dataset versioned csv files are stored.
+
+### .dvc:
+- `.dvc/`: the folder where dvc is configured for data version control.
+
+### .github:
+
+- `.github/`: the folder where github actions and CML workflow is integrated.
+
+### .vscode:
+
+- `.vscode/`: the folder where local path fix are stored.
+### modles:
+- `28-05-2022-00-05-32-52.91%.pkl`: the folder where model pickle files are stored.
+
+### notebooks:
+
+- `data_preProcessing.ipynb`: a jupyter notebook for preprocessing the data.
+- `data_exploration.ipynb`: a jupyter notebook for exploring the data.
+- `ml_preProcess`: a jupyter notebook for preprocessing the data for ml analysis.
+- `ml_model`: a jupyter notebook training an Regression models for prediction purpose.
+- `time_series_ltsm.ipynb`: a jupyter notebook training an LSTM model for forecasting purpose.
+
+###  scripts:
+
+- `applications/`: folder where dashboard design are stored.
+- `web-css/`: folder where style sheet are stored
+      - `index.html`
+      - `styles.css`
+- `data_cleaner.py`: a python script for cleaning pandas dataframes.
+- `data_preProcessing.py`:  a python script for accessing information data from a pandas dataframe.
+- `ltsm_model`: a python script for model manipulation.
+- `data_manipulator.py`: a python script for manipulating dataframes.
+- `data_exploration.py`: a python script for plotting dataframes.
+- `multiapp.py`: a python script for creating a multipaged streamlit app.
+- `log_help.py`: a python script that creates python based logger.
+### tests:
+
+- `tests/`: the folder containing unit tests for the scripts.
+
+### sql:
+
+- `sql/`: the folder containing database table and mysql-python manipulator script.
+### root folder
+
+- `train.py`: holds cml report and model metrics.
+- `results.txt`: contains cml pr reports.
+- `requirements.txt`: a text file lsiting the projet's dependancies.
+- `.travis.yml`: a configuration file for Travis CI for unit test.
+- `app.py`: main file for the streamlit application.
+- `setup.py`: a configuration file for installing the scripts as a package.
+- `README.md`: Markdown text with a brief explanation of the project and the repository structure.
+- `Dockerfile`: build users can create an automated build that executes several command-line instructions in a container.
+
+## Installation guide
+
+```bash
+git 
+cd Pharmaceutical-sales-prediction-across-mulitple-stores
+sudo python3 setup.py install
+```
